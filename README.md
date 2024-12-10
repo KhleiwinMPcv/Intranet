@@ -85,8 +85,15 @@ a las necesidades y políticas de la institución educativa será crucial para e
 del proyecto.
 
 
-## Instalación
+## Instalación y ejecución
 
 1. Clona el repositorio: DESDE TU CMD EN UN DIRECTORIO DE CARPETA LOCAL
    ```bash
-   git clone https://github.com/tu_usuario/tu_proyecto.git
+   git clone https://github.com/KhleiwinMPcv/Intranet.git
+
+2. PREVIO A ELLO DEBES TENER INSTALADO:
+   VISUAL STUDIO CODE (ELIGE EL SISTEMA OPERATIVO Y LUEGO EJECUTA EL EJECUTABLE): https://code.visualstudio.com/download
+   2.1. INSTALA DENTRO DE VSCode la extención de flutter y mas carasteristicas para .dart
+   2.2. Selecciona la carpeta donde clonaste el repositorio y abre pra modificar o ejecutar
+   2.3. Importante debes ejecutarlo en un emulador de android porque es compatible con ello
+   
